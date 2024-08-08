@@ -1,0 +1,6 @@
+streamlit==1.23.0
+pandas==2.1.0
+sqlalchemy==2.0.17
+cryptography==40.0.2
+pdfminer.six==20221012
+python-docx==0.8.11
